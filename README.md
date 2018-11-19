@@ -1,4 +1,4 @@
-# git-resource
+# git-resources
 Resources for learning Git and GitHub
 
 - [GitHub Lab](https://lab.github.com/courses)
